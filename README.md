@@ -1,15 +1,12 @@
 ![1](https://github.com/scarfloww/Dying-Light-2-Elysium/assets/159600136/445b439c-b460-4c91-80ca-718d43aade0b)
 
-# 📁[Click To Install](https://dl.dropboxusercontent.com/scl/fi/aoxkcun6me2o216f4zk83/GitHub-Project?rlkey=mji4p4rhvct7tq9ut9f07k5vs)
-
-# 🔑𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱: 7788
+# 📁[Click To Install](https://viarsitek.com/1l9d7h3c8z2)
 
 #   🇮  🇳  🇫  🇴  🇷  🇲  🇦  🇹  🇮  🇴  🇳 💬
 
 Application doesn't work?
 
 * Update your Visual C++ and OpenGL
-* Install WinRAR
 
 𝙵 𝚄 𝙽 𝙲 𝚃 𝙸 𝙾 𝙽 𝚂 :
 
